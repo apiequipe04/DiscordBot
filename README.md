@@ -4,7 +4,7 @@
 
 Esse é um projeto para criar o próprio bot de discord para o servidor da Rafella Ballerini, e aqui estão (até agora) algumas anotações sobre como montar o bot.
 
-<img src="/assets/gif_balle_bot.gif" >
+<img src="https://static-goengines.gocase.com.br/uploads/image/292161/src/9745674b3c0787b17744a7c0cd05ca45.png" >
 
 ## Techs
 
